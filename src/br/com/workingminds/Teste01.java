@@ -23,7 +23,7 @@ public class Teste01 {
 			
 		}
 		
-		System.out.println(listaInt.toString());
+		System.out.println(listaInt.toString()); 
 
 	}
 
