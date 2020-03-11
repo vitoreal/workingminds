@@ -3,9 +3,7 @@ package br.com.workingminds;
 public class Teste02 {
 
 	public static void main(String[] args) {
-		
 		spiralMatrix();
-
 	}
 	
 	public static void spiralMatrix() {
